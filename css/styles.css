@@ -1,4 +1,4 @@
-@font-face url('http://fonts.cdnfonts.com/css/jetbrains-mono');
+@import url('https://fonts.cdnfonts.com/css/jetbrains-mono');
 
 * {
     font-family: 'JetBrains Mono', sans-serif;
